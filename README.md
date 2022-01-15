@@ -1,2 +1,2 @@
-# coding
-first of all print number 1 to 100.
+# coding with baby :
+Q1 Print number 1 to 100.
